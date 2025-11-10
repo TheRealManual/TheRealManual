@@ -4,6 +4,12 @@ My current position focuses mainly on the frontend part of the Major Appliances 
 
 Here on my GitHub you will find various projects that range from fun programs to use with friends, or production ready applications that make my day a little easier using ML or AI.
 
+LINKS:
+
+[Personal Portfolio / Resume](https://therealmanual.github.io/PersonalPortfolio/)
+
+[LinkedIn Profile](https://www.linkedin.com/in/nicholas-korcynski/)
+
 <!---
 TheRealManual/TheRealManual is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
